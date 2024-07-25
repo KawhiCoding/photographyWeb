@@ -1,3 +1,3 @@
 <template>
-    <p>hello this is About</p>
+    <p>github </p>
 </template>
