@@ -1,3 +1,3 @@
 <template>
-    <p>github </p>
+    <p>g</p>
 </template>

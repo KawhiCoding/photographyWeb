@@ -4,11 +4,11 @@
     </div>
 </template>
   
-  <script setup lang="ts">
+<script setup lang="ts">
   import CarouselBar from 'src/components/CarouselBar.vue';
 </script>
   
-  <style scoped>
+<style scoped>
   .full-page {
     max-width: 100%;
   }
