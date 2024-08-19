@@ -38,7 +38,7 @@ withDefaults(defineProps<EssentialLinkProps>(), {
 });
 </script>
 
-<style>
+<style scoped>
 body{
   background-color: antiquewhite;
 }
